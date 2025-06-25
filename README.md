@@ -30,11 +30,7 @@ Elara is a sleek, modern AI-powered virtual assistant built using **React 19** a
 
 ## 📂 Folder Structure
 
-/src
-├── components # Reusable UI components
-├── assets # Icons, images
-├── App.jsx # Main app layout
-└── main.jsx # Entry point
+
 
 
 ---

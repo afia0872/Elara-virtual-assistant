@@ -2,6 +2,10 @@
 
 
  <img src="src/assets/main.png"/>
+
+
+
+ 
 🌐 **Live Demo:** [afiavirtualassistant.netlify.app](https://afiavirtualassistant.netlify.app)
 
 Meet **Elara** — your intelligent, modern, and beautifully designed AI-powered virtual assistant 💬  
@@ -32,11 +36,6 @@ This project highlights my ability to build **real-world AI-integrated web appli
 | 🚀 **Deployment** | Netlify |
 
 ---
-
-<<<<<<< HEAD
-=======
-
->>>>>>> 3b344b811934ece010b708fb2efdccdc2af4342e
 
 
 ## ⚙️ Getting Started (Run Locally)

@@ -33,6 +33,10 @@ This project highlights my ability to build **real-world AI-integrated web appli
 
 ---
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3b344b811934ece010b708fb2efdccdc2af4342e
 
 
 ## ⚙️ Getting Started (Run Locally)
